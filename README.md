@@ -1,3 +1,3 @@
 # OpenGL-Desert-Motel
 
-<img src="desert-motel.png" width="125">
+<img src="desert-motel.png" width="500">
