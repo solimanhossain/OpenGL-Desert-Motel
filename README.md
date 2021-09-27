@@ -1,17 +1,17 @@
 # OpenGL-Desert-Motel
-
-Tried to create a desert view which includes:
-•	Sky
-•	Sun
-•	Bird
-•	Cloud
-•	Motel
-•	Desert
-•	Cactus
-•	Highway
-• benches
-•	Wind Fan
-
+<br>
+Tried to create a desert view which includes:<br>
+•	Sky<br>
+•	Sun<br>
+•	Bird<br>
+•	Cloud<br>
+•	Motel<br>
+•	Desert<br>
+•	Cactus<br>
+•	Highway<br>
+• benches<br>
+•	Wind Fan<br>
+<br>
 Also added a litte bit of animations and sound.
 
 
