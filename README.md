@@ -14,7 +14,7 @@ Tried to create a desert view which includes:<br>
 <br>
 Also added a litte bit of animations and sound.<br>
 
-<h2>Output:<\h2>
+<h2>Output:</h2><br>
 
 
 <img src="desert-motel.png" width="500">
