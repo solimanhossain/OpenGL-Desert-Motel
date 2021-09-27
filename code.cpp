@@ -526,7 +526,7 @@ int main(int Argc,char **Argv){
     glutInitWindowPosition(450,80);
     glutCreateWindow("Motels in the desert");
     initialize();
-    sndPlaySound("soundcar.wav",SND_ASYNC);
+    sndPlaySound("sound.wav",SND_ASYNC);
     glutDisplayFunc(draw);
     glutTimerFunc(1000,timer,0);
     glutMainLoop();
