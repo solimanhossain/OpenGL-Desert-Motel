@@ -12,9 +12,9 @@ Tried to create a desert view which includes:<br>
 • benches<br>
 •	Wind Fan<br>
 <br>
-Also added a litte bit of animations and sound.<br>
+<h3>Also added a litte bit of animations and sound.</h3>
 
-<h2>Output:</h2><br>
+Sample of Desert Motel:<br>
 
 
 <img src="desert-motel.png" width="500">
