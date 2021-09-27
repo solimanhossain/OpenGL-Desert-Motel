@@ -11,7 +11,7 @@ Tried to create a desert view which includes:<br>
 •	Highway<br>
 • benches<br>
 •	Wind Fan<br>
-<br>
+•	River<br>
 <h3>Also added a litte bit of animations and sound.</h3>
 <br><br><br>
 Sample of Desert Motel:<br>
